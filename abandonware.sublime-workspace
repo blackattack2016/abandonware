@@ -1,0 +1,283 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 347,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<html>"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<head>\n<title>Quest for Glory - So You Want to Be a Hero?</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/main.css\"\n\n</head>\n<body>\n<article>\nGOOGLE AD\n<h1>Quest for Glory - So You Want to Be a Hero?</h1>\n<img=\"game_images/quest-for-glory-vga-300x188.gi\"fhttp://localhost:8080/login.html alt=\"QFG1\" title=\"QFG1\" width=\"300\" height=\"188\" align=\"right\">\nAlternate Names: QFG1, 영웅의 길 I: 당신도 영웅이 되고 싶은가\nYear: 1992\nPlatform:  DOS, Mac\nEmulator Required: ScummVM, DOS BOX, Mac\nReleased in: USA\nGenre: Adventure, RPG\nPublisher: Sierra On-Line Inc.\nDeveloper: Sierra On-Line Inc.\nDescription of: Quest for Glory – So You Want to be a Hero?:\nOriginally released as Hero’s Quest: So You Want to Be a Hero in 1989, Quest for Glory: So You Want to Be a Hero is an adventure game/role-playing game hybrid. It was published by Sierra On-line and designed by Lori Ann Cole. It is the first game in the Quest for Glory series and is credited with being a genre-defining game because it mixed graphical adventure gaming with role-playing-like elements such as statistic building (strength, intelligence, health, etc.) These attributes actually have an impact on the player’s ability to accomplish certain parts of the game. Like most Sierra products, this game has a satirical and silly tone to it.\n\nQuest for Glory I was billed as ‘three games in one’ – being the first game to introduce character classes: Fighter, Theif and Magic User. The character you choose determined largel how the game is played, and how to solve the puzzles throughout the game. Quest for Glory offered an authenticity that is not often found in RPG games today. There was linear time and Day and Night. The hero had to eat, and would become tired and require rest. Skills were gained through the regular course of adventuring, not via gaining levels in combat. Different activities caused you to gain skills in different areas. Quest for Glory I is one of the few Sierra adventure games where the player character had little to no dialogue.\n\n<button>Download QFG1 Now</button>\n</article>\n\t\n<aside>\nSidebar\t\n</aside>\n\n\n<footer>\nFooter\n</footer>\n\n</body>\n",
+			"file": "game.html",
+			"file_size": 2149,
+			"file_write_time": 131230013682387811,
+			"settings":
+			{
+				"buffer_size": 2139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 24,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "h1 {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"auto_name": "h1 {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "abandonware.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
